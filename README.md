@@ -1,2 +1,2 @@
-# Picasso
-#DRAWING like Picasso
+# DRAW like Picasso
+
