@@ -9,3 +9,8 @@ Through Python's deep learning algorithm package to train the computer to imitat
 
 
 
+```python
+# Your image path      template image path       transfered image (".jgp" is not needed at this time)
+python neural_style_transfer.py './before.jpg' './template.jpg' './after'
+```
+
