@@ -16,7 +16,13 @@ python neural_style_transfer.py './before.jpg' './template.jpg' './after'
 
 
 
-![img]("https://github.com/yycyjqc/Neural-Algorithm-of-Artistic-Style/blob/master/Screen%20Shot.png?raw=true")
+![ss](https://github.com/yycyjqc/Neural-Algorithm-of-Artistic-Style/blob/master/Screen%20Shot.png?raw=true)
+
+
+
+
+
+
 
 
 
