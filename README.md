@@ -20,9 +20,4 @@ python neural_style_transfer.py './before.jpg' './template.jpg' './after'
 
 
 
-
-
-
-
-
-
+Normally, it would have 10 iterations. The current result is based on the previous one.
